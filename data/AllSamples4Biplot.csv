@@ -1,0 +1,394 @@
+﻿UCBID,SiteCode,Site,Pair ,SiteType,PairID,TaxaA,Group,TaxaB,Category,SpeciesName,Rough ID, D15N, D13C, D34S
+F1.0359,BR,Browns,P1,Ref,P1_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,9.153870309,-28.2224632,9.624077281
+F2.0244,BR,Browns,P1,Ref,P1_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.87005035,-26.17142881,10.06639579
+F2.0274,BR,Browns,P1,Ref,P1_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.74766655,-26.27756327,12.99323935
+F2.0310,BR,Browns,P1,Ref,P1_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,9.09959756,-27.1927227,11.01662922
+F1.0366,BR,Browns,P1,Ref,P1_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.88430193,-24.96609892,13.42958812
+F1.0081,BR,Browns,P1,Ref,P1_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,8.848922018,-27.1048151,15.97389666
+F1.0334,BR,Browns,P1,Ref,P1_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,9.652751373,-23.97069644,11.28302824
+F2.0178,BR,Browns,P1,Ref,P1_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.5798573,-24.82830606,17.55835338
+F2.0266,BR,Browns,P1,Ref,P1_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.101774,-22.49650658,15.57475459
+F2.0271,BR,Browns,P1,Ref,P1_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.50295063,-19.64864489,14.41431845
+F1.0368,BR,Browns,P1,Ref,P1_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.59547393,-23.95270724,17.62594936
+F1.0335,BR,Browns,P1,Ref,P1_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,10.8855192,-22.70245774,16.7766121
+F1.0101,BR,Browns,P1,Ref,P1_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,9.5570304,-22.01387108,17.91930116
+F2.0247,BR,Browns,P1,Ref,P1_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.1148447,-24.03302209,18.48383494
+F2.0259,BR,Browns,P1,Ref,P1_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,9.387223412,-24.18999223,18.75615516
+F2.0289,BR,Browns,P1,Ref,P1_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,9.260524159,-20.16299765,18.66557433
+F2.0177,BR,Browns,P1,Ref,P1_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,12.46267711,-23.97221026,14.5031146
+F1.0396,BR,Browns,P1,Ref,P1_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,13.0515562,-23.7716899,12.01776879
+F2.0270/0303,BR,Browns,P1,Ref,P1_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,12.65696329,-23.86155269,14.15883118
+F2.0273,BR,Browns,P1,Ref,P1_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,14.32634892,-20.68039659,15.76095281
+F2.0302,BR,Browns,P1,Ref,P1_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,13.44741092,-23.27337278,15.29687539
+F2.0248,BR,Browns,P1,Ref,P1_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,11.8953496,-29.52004282,6.485288943
+F2.0286,BR,Browns,P1,Ref,P1_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,9.99529246,-22.71609723,12.77873706
+F1.0352/0082/0370,BR,Browns,P1,Ref,P1_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,10.69911872,-25.67360505,9.604784755
+F2.0277/0309,BR,Browns,P1,Ref,P1_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,10.71717698,-24.90033823,13.65576829
+F1.0333,BR,Browns,P1,Ref,P1_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,8.641528269,-25.09702034,12.54690803
+F1.0350/0354,BR,Browns,P1,Ref,P1_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,9.796644325,-24.56334069,14.40249056
+F1.0088/0083,BR,Browns,P1,Ref,P1_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,7.470100357,-29.4534053,14.55939811
+F2.0238,BR,Browns,P1,Ref,P1_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.49878667,-23.1826535,16.44092824
+F2.0261,BR,Browns,P1,Ref,P1_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,7.872016565,-27.38496626,13.46808656
+F2.0287,BR,Browns,P1,Ref,P1_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,7.915102926,-26.27055439,12.92778113
+F1.0287/0419/0225/0224/0471/0115/0248/0256/0473,CH,Chipps,P2,Ref,P2_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Annelid sp.,Annelida - unknown,8.76471291,-30.67695524,3.525150915
+F1.0476,CH,Chipps,P2,Ref,P2_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.58956811,-27.49963816,12.79843185
+F1.0466,CH,Chipps,P2,Ref,P2_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.16922388,-27.20486563,11.98885462
+F1.0254/0250,CH,Chipps,P2,Ref,P2_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.3035508,-26.51609022,9.720753866
+F2.0429,CH,Chipps,P2,Ref,P2_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,11.19521675,-26.22950238,12.40631056
+F2.0431,CH,Chipps,P2,Ref,P2_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,11.61218259,-26.88032692,12.92908895
+F1.0203,CH,Chipps,P2,Ref,P2_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.30846697,-22.15178829,15.15561619
+F1.0197,CH,Chipps,P2,Ref,P2_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.36516007,-24.40443608,16.91057276
+F1.0468,CH,Chipps,P2,Ref,P2_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.4464135,-23.59492201,14.59969927
+F2.0154,CH,Chipps,P2,Ref,P2_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.15986031,-20.35309485,15.60668294
+F2.0493,CH,Chipps,P2,Ref,P2_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,13.24200565,-24.13053652,17.83355723
+F2.0515,CH,Chipps,P2,Ref,P2_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,13.44477511,-21.50947499,17.17279154
+F1.0465,CH,Chipps,P2,Ref,P2_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,10.2198417,-23.26212178,19.87421082
+F1.0118,CH,Chipps,P2,Ref,P2_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.30883333,-19.25573587,18.21401424
+F2.0115,CH,Chipps,P2,Ref,P2_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.6907686,-18.28680342,18.33858036
+F2.0386,CH,Chipps,P2,Ref,P2_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.11263481,-22.775748,21.08215689
+F2.0423,CH,Chipps,P2,Ref,P2_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.58423504,-21.52851418,19.9826679
+F2.0153,CH,Chipps,P2,Ref,P2_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,12.8669185,-23.09252811,13.98690546
+F2.0215,CH,Chipps,P2,Ref,P2_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,14.28587873,-23.28877674,14.87852269
+F2.0414,CH,Chipps,P2,Ref,P2_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,13.72519389,-23.71999074,15.25827877
+F1.0221/0210,CH,Chipps,P2,Ref,P2_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,13.98127049,-24.31453831,15.42403695
+F2.0388,CH,Chipps,P2,Ref,P2_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,14.25973257,-24.73086266,14.03362242
+F2.0144,CH,Chipps,P2,Ref,P2_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,12.91249164,-26.34088055,12.39885678
+F2.0389/0409/0145,CH,Chipps,P2,Ref,P2_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,11.93114345,-25.64802455,8.154114299
+F1.0472/0255/0286,CH,Chipps,P2,Ref,P2_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,10.87634632,-24.36415349,9.550487821
+F2.0408/0430/0427/0140,CH,Chipps,P2,Ref,P2_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,12.44717153,-22.84469928,12.19508131
+F2.0141/0117,CH,Chipps,P2,Ref,P2_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.67950602,-23.65718509,12.61870843
+F2.0182,CH,Chipps,P2,Ref,P2_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,10.37755457,-27.85155739,13.4834999
+F2.0188,CH,Chipps,P2,Ref,P2_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.45414929,-27.24078359,11.79474267
+F1.0198,CH,Chipps,P2,Ref,P2_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,8.426377778,-26.81498908,16.74334609
+F1.0475/0249/0234,CH,Chipps,P2,Ref,P2_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,9.168632983,-26.31029204,13.9200277
+F2.0539,CH,Chipps,P2,Ref,P2_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,12.12720978,-21.94106931,15.97593097
+F2.0540,CH,Chipps,P2,Ref,P2_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.47713436,-26.6520377,15.73166535
+F1.0206/0219,CH,Chipps,P2,Ref,P2_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,8.49228703,-25.45880317,13.79392633
+F2.0536,CH,Chipps,P2,Ref,P2_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,12.6017704,-24.04773828,14.63771673
+F1.0305,RY,Ryer,P3,Ref,P3_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,9.813593194,-26.05982516,10.24972894
+F1.0467,RY,Ryer,P3,Ref,P3_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.50061651,-26.97235529,11.50533335
+F1.0410,RY,Ryer,P3,Ref,P3_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.31318835,-25.52281382,11.47741635
+F2.0306,RY,Ryer,P3,Ref,P3_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.71647153,-26.14339329,10.55323585
+F2.0308,RY,Ryer,P3,Ref,P3_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.79503564,-27.00448422,11.3254307
+F2.0327,RY,Ryer,P3,Ref,P3_Ref,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,11.77075294,-25.83700512,13.79084105
+F1.0413,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.86778317,-22.89834015,15.55276183
+F1.0406,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.22282423,-22.05884408,14.98275928
+F1.0304,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.67991601,-20.69266417,18.75283734
+F2.0165/0297,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,13.79043536,-16.75753565,17.64145793
+F2.0174,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.40737771,-20.76694667,17.45629085
+F2.0232,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.09917572,-18.57391497,16.14577498
+F2.0312/0329,RY,Ryer,P3,Ref,P3_Ref,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,13.69312063,-18.2207058,16.00811917
+F1.0293,RY,Ryer,P3,Ref,P3_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.87325524,-16.60112023,18.73610402
+F1.0313,RY,Ryer,P3,Ref,P3_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.16930114,-18.80179921,22.13732565
+F1.0291,RY,Ryer,P3,Ref,P3_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.25282809,-16.44356056,18.13195721
+F2.0192,RY,Ryer,P3,Ref,P3_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.47723223,-18.92348565,19.8268043
+F2.0222,RY,Ryer,P3,Ref,P3_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.68020167,-18.58245037,20.60461428
+F2.0325,RY,Ryer,P3,Ref,P3_Ref,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,13.7763162,-14.87181286,20.37483957
+F1.0477,RY,Ryer,P3,Ref,P3_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,12.98808126,-26.96165398,15.20597927
+F1.0479,RY,Ryer,P3,Ref,P3_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,12.36078382,-27.31577015,14.41344582
+F2.0202,RY,Ryer,P3,Ref,P3_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,15.62890191,-23.85549472,14.08142117
+F2.0216,RY,Ryer,P3,Ref,P3_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,13.77818571,-24.02671164,14.85361813
+F2.0314,RY,Ryer,P3,Ref,P3_Ref,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,14.78513438,-23.71398211,15.2545876
+F1.0407,RY,Ryer,P3,Ref,P3_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,12.87009074,-18.26051377,13.33335882
+F2.0200,RY,Ryer,P3,Ref,P3_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,13.26048746,-16.22518299,13.17984625
+F2.0234,RY,Ryer,P3,Ref,P3_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,13.24364877,-17.2290765,12.17687432
+F2.0324,RY,Ryer,P3,Ref,P3_Ref,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,19.1674678,-19.14714116,13.27240452
+F2.0199/0166,RY,Ryer,P3,Ref,P3_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,10.36424309,-22.70214042,4.985489203
+F2.0218/0233,RY,Ryer,P3,Ref,P3_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,10.195872,-25.49549654,3.584334884
+F1.0283/0268/0258/0415/0310,RY,Ryer,P3,Ref,P3_Ref,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,13.11690697,-24.88365359,9.559571898
+F1.0463,RY,Ryer,P3,Ref,P3_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,9.459712078,-26.9850023,13.50056185
+F2.0168,RY,Ryer,P3,Ref,P3_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.359193,-26.87031424,13.01791551
+F2.0173,RY,Ryer,P3,Ref,P3_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.93120704,-21.73380673,8.439214597
+F2.0374,RY,Ryer,P3,Ref,P3_Ref,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.44536572,-25.09806896,15.17729253
+F1.0459,RY,Ryer,P3,Ref,P3_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.56788901,-20.74063537,14.81634625
+F2.0201,RY,Ryer,P3,Ref,P3_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.82265672,-18.13925274,13.53438985
+F2.0219,RY,Ryer,P3,Ref,P3_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,11.56116525,-24.22941436,15.0948381
+F2.0226/0358,RY,Ryer,P3,Ref,P3_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,11.74046225,-19.88386142,15.26693229
+F2.0335/0317/0369,RY,Ryer,P3,Ref,P3_Ref,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,11.43157084,-22.56157539,15.3454996
+F1.0035/0047/0036,SH,Sherman,P1,Res,P1_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Annelid sp.,Annelida - unknown,10.74870717,-27.24086096,4.946490471
+F1.0403,SH,Sherman,P1,Res,P1_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.59739297,-28.71958783,3.429748191
+F1.0389,SH,Sherman,P1,Res,P1_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,11.2236028,-27.14844053,4.880483781
+F2.0401,SH,Sherman,P1,Res,P1_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.62932013,-24.61145246,11.16580235
+F2.0485,SH,Sherman,P1,Res,P1_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.6490409,-26.51085884,11.39330974
+F2.0487,SH,Sherman,P1,Res,P1_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.89393118,-25.85302542,13.11950479
+F1.0072,SH,Sherman,P1,Res,P1_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.6390359,-26.51317025,11.67539347
+F1.0067,SH,Sherman,P1,Res,P1_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.71554201,-29.43841429,12.8203076
+F1.0425/0427,SH,Sherman,P1,Res,P1_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.73465636,-24.43841568,12.0428323
+F2.0462,SH,Sherman,P1,Res,P1_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.7743155,-25.78727989,18.22631637
+F2.0529,SH,Sherman,P1,Res,P1_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.26633101,-22.30711676,17.84578286
+F2.0531,SH,Sherman,P1,Res,P1_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.38091581,-22.08866713,17.33715375
+F1.0061,SH,Sherman,P1,Res,P1_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,10.79639191,-25.16198134,15.5136235
+F1.0383,SH,Sherman,P1,Res,P1_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.53433515,-25.38595017,12.43041214
+F2.0377,SH,Sherman,P1,Res,P1_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,10.74112689,-19.51637264,18.94504377
+F2.0481,SH,Sherman,P1,Res,P1_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.61993577,-22.21863659,17.96927622
+F2.0511,SH,Sherman,P1,Res,P1_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.74188984,-21.61903383,18.93991312
+F1.0434,SH,Sherman,P1,Res,P1_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,10.27243817,-28.439408,6.443139455
+F2.0512,SH,Sherman,P1,Res,P1_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,13.86825247,-22.23558415,14.45767477
+F2.0458,SH,Sherman,P1,Res,P1_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,15.9330953,-24.20249765,12.86532026
+F2.0513,SH,Sherman,P1,Res,P1_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,14.76184082,-25.08177678,17.30715591
+F1.0402,SH,Sherman,P1,Res,P1_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,14.52822939,-26.90425603,4.168890412
+F2.0392,SH,Sherman,P1,Res,P1_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,12.22345993,-22.47484378,6.852226127
+F2.0473,SH,Sherman,P1,Res,P1_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,12.00571398,-27.38863833,0.542900625
+F2.0478,SH,Sherman,P1,Res,P1_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,11.51624535,-27.79338586,13.55108344
+F2.0484,SH,Sherman,P1,Res,P1_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.14481348,-23.96863807,13.35754261
+F1.0411,SH,Sherman,P1,Res,P1_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,9.399127656,-26.05144741,9.316969664
+F1.0430,SH,Sherman,P1,Res,P1_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,12.31302479,-24.29949907,10.94347361
+F1.0041/0455/0045/0399/0378,SH,Sherman,P1,Res,P1_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.19737307,-25.1531321,9.454384559
+F2.0376,SH,Sherman,P1,Res,P1_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,8.72427324,-25.92411549,13.97598958
+F2.0532,SH,Sherman,P1,Res,P1_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.79606067,-22.78313614,14.05785975
+F2.0526,SH,Sherman,P1,Res,P1_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,9.932182538,-27.10461107,10.05348057
+F2.0099,TR,Tule Red,P3,Res,P3_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,12.22273037,-29.1011405,14.60489283
+F1.0098,TR,Tule Red,P3,Res,P3_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,9.827601714,-26.67907067,13.52823035
+F1.0131,TR,Tule Red,P3,Res,P3_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.72990982,-23.26611938,17.66355524
+F1.0121,TR,Tule Red,P3,Res,P3_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.83777037,-24.01500318,17.68093616
+F2.0130,TR,Tule Red,P3,Res,P3_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.09085157,-20.91766238,16.99136319
+F2.0135,TR,Tule Red,P3,Res,P3_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,13.512759,-21.35816355,17.10324452
+F2.0545,TR,Tule Red,P3,Res,P3_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.22465137,-20.80401406,18.57410657
+F1.0134,TR,Tule Red,P3,Res,P3_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.56565129,-18.43501938,20.3388545
+F2.0445,TR,Tule Red,P3,Res,P3_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,13.09269118,-17.10607826,20.74580231
+F2.0468 ,TR,Tule Red,P3,Res,P3_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.63687466,-18.65059063,20.45339633
+F2.0472,TR,Tule Red,P3,Res,P3_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.00123293,-18.03612208,19.58214626
+F1.0478,TR,Tule Red,P3,Res,P3_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,12.70278902,-25.08600569,16.29332545
+F1.0480,TR,Tule Red,P3,Res,P3_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,12.59174987,-26.27287857,16.07091976
+F1.0095,TR,Tule Red,P3,Res,P3_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,14.22660075,-25.9333551,15.55086814
+F2.0084,TR,Tule Red,P3,Res,P3_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,14.00411764,-25.13111082,16.08701289
+F2.0440,TR,Tule Red,P3,Res,P3_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,15.01193503,-23.30679957,15.30763044
+F2.0092,TR,Tule Red,P3,Res,P3_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,12.42231468,-19.04047124,11.74184283
+F2.0452/0450/0448/0444/0454,TR,Tule Red,P3,Res,P3_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Oligochaeta sp.,Oligochaeta - unknown,9.613860838,-24.85148939,13.53536913
+F1.0130/0489,TR,Tule Red,P3,Res,P3_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,10.03427082,-27.72631143,10.08197485
+F2.0446/0453,TR,Tule Red,P3,Res,P3_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,14.27771567,-17.71258032,16.58101541
+F2.0124/0093,TR,Tule Red,P3,Res,P3_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,13.80675764,-21.17386956,11.77282104
+F1.0142,TR,Tule Red,P3,Res,P3_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.43375572,-27.52201363,16.61014783
+F1.0097,TR,Tule Red,P3,Res,P3_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,12.05946567,-25.54421645,16.06582667
+F1.0140/0060,TR,Tule Red,P3,Res,P3_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.54112001,-27.43348459,15.6026754
+F2.0127/0105,TR,Tule Red,P3,Res,P3_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.82302027,-27.26900852,14.89545356
+F2.0449/0105,TR,Tule Red,P3,Res,P3_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.54693989,-24.70893053,14.63941325
+F2.0470,TR,Tule Red,P3,Res,P3_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.69886783,-23.6111852,14.14196012
+F1.0138,TR,Tule Red,P3,Res,P3_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Sabellidae,Sabellidae,10.60989245,-27.68447902,12.76858735
+F1.0100,TR,Tule Red,P3,Res,P3_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Sabellidae,Sabellidae,11.60987097,-27.90239666,13.19544923
+F2.0106,TR,Tule Red,P3,Res,P3_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,11.91576629,-23.53909387,15.74581004
+F2.0548,TR,Tule Red,P3,Res,P3_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,12.06083143,-21.87398432,15.45661224
+F1.0296,WH,Wheeler,P2,Res,P2_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.41397748,-25.93530079,9.158173109
+F1.0326,WH,Wheeler,P2,Res,P2_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,9.912956901,-27.7139887,7.518346758
+F2.0020,WH,Wheeler,P2,Res,P2_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,12.04260457,-22.12330018,10.44672764
+F2.0052,WH,Wheeler,P2,Res,P2_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,11.04731372,-25.09706769,11.95087324
+F1.0156,WH,Wheeler,P2,Res,P2_Res,Corbicula fluminea,Invertebrate,Corbicula fluminea,Bivalve,Corbicula fluminea,Corbicula fluminea,10.70988228,-25.72127453,8.087469153
+F1.0288,WH,Wheeler,P2,Res,P2_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.16181421,-21.63609785,15.16417101
+F1.0325,WH,Wheeler,P2,Res,P2_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,12.52576905,-21.77434819,14.48235609
+F2.0012,WH,Wheeler,P2,Res,P2_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,13.92572107,-19.89047598,16.67278904
+F2.0075,WH,Wheeler,P2,Res,P2_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,11.20105746,-19.3313251,17.22980792
+F1.0176,WH,Wheeler,P2,Res,P2_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammarus New,10.37031963,-16.69406444,17.51897804
+F2.0041,WH,Wheeler,P2,Res,P2_Res,Gammarus sp. ,Invertebrate,Gammarus sp. ,Amphipod,Gammarus sp. ,Gammaroidea,12.84317755,-18.16960062,16.33857834
+F1.0487,WH,Wheeler,P2,Res,P2_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.51870831,-20.53405633,17.30540909
+F2.0004,WH,Wheeler,P2,Res,P2_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.96339608,-19.08815793,17.6498502
+F2.0071,WH,Wheeler,P2,Res,P2_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.17612978,-17.34490316,19.20871116
+F2.0079,WH,Wheeler,P2,Res,P2_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,11.43084926,-19.41182412,20.19353066
+F1.0361/0169,WH,Wheeler,P2,Res,P2_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,12.13358049,-18.44535463,19.06539779
+F1.0159/0178,WH,Wheeler,P2,Res,P2_Res,Gnorimosphaeroma oregonense,Invertebrate,Gnorimosphaeroma oregonense,Isopod,Gnorimosphaeroma oregonense,Gnorimosphaeroma oregonense,10.46984168,-20.83953017,18.62741062
+F2.0062/0008,WH,Wheeler,P2,Res,P2_Res,Mysida,Invertebrate,Mysida,Mysid,Mysida,Mysida,11.9797878,-17.86211759,14.41589718
+F1.0323/0330/0290/0163,WH,Wheeler,P2,Res,P2_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,14.74384513,-21.51468573,11.88303592
+F2.0017,WH,Wheeler,P2,Res,P2_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,14.46256442,-21.07417805,11.17540827
+F2.0031/0023/0066,WH,Wheeler,P2,Res,P2_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,13.71958927,-21.004394,10.53833139
+F2.0050/0044,WH,Wheeler,P2,Res,P2_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,12.4445915,-20.09022285,13.55738297
+F1.0186/0152,WH,Wheeler,P2,Res,P2_Res,Nereididae,Invertebrate,Nereididae,Annelid ,Nereididae,Nereididae,14.07548444,-18.45994733,10.48035753
+F1.0172/0173,WH,Wheeler,P2,Res,P2_Res,Annelid (non-nereid),Invertebrate,Annelid (non-nereid),Annelid ,Polychaeta sp. ,Polychaeta ,13.7963801,-22.33187689,12.60040943
+F1.0327/0297,WH,Wheeler,P2,Res,P2_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,10.64641842,-24.19487818,11.54763269
+F2.0019,WH,Wheeler,P2,Res,P2_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.58935484,-21.73214202,7.922356324
+F2.0022,WH,Wheeler,P2,Res,P2_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.86674611,-21.64740424,10.98345572
+F2.0025,WH,Wheeler,P2,Res,P2_Res,Potamocorbula amurensis,Invertebrate,Potamocorbula amurensis,Bivalve,Potamocorbula amurensis,Potamocorbula amurensis,11.41368501,-23.85058662,12.9501787
+F1.0193,WH,Wheeler,P2,Res,P2_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,9.766027563,-21.72104686,17.35658679
+F1.0300/0362,WH,Wheeler,P2,Res,P2_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,9.205385678,-23.03425856,16.01707688
+F2.0007/0010,WH,Wheeler,P2,Res,P2_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,12.02547999,-24.02006219,15.48311184
+F2.0055/0049/0072/0001,WH,Wheeler,P2,Res,P2_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,11.28109668,-22.03919188,15.24750884
+F2.0064/0068/0043,WH,Wheeler,P2,Res,P2_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,11.28937859,-20.12810562,14.4847033
+F1.0177,WH,Wheeler,P2,Res,P2_Res,Sinocorophium sp.,Invertebrate,Sinocorophium sp.,Amphipod,Sinocorophium,Sinocorophium,10.58116111,-16.66708064,17.11673772
+NP20.020,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,8.54671608,-27.2136322,2.26287098
+NP20.066,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,10.91257855,-27.38803327,9.217819527
+NP21.172,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,9.271569648,-28.67629589,11.2167083
+NP21.228,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,2.281459801,-26.57663331,-0.918748838
+NP21.142,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,9.927794755,-26.44639298,14.5016824
+NP20.271,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.898090497,-28.71297857,11.28056004
+NP20.274,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.203235172,-27.48629639,10.3092476
+NP21.089,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,6.245447272,-28.24715673,8.829655884
+NP20.232,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,9.362028637,-28.08563755,5.99391923
+NP21.112,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.384732702,-28.94476101,5.160633547
+NP21.114,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.234235254,-28.32742086,11.87337933
+NP20.114,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus sp.,Tule,10.02162804,-28.18571999,13.68147054
+NP20.057,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,8.172743189,-27.06004035,15.65256563
+NP21.153,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,6.258183953,-26.90778702,6.806257983
+NP21.218,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,6.523955122,-25.68918176,8.665294399
+NP20.383,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,6.59188575,-27.76160829,3.983699539
+NP21.240,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,8.669811224,-28.5261998,15.16686487
+NP20.462,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus americanus,Tule,6.32212808,-26.00768844,14.87960642
+NP20.236,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,5.861495876,-28.19302687,8.881335788
+NP21.087,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,5.487172146,-28.676223,14.1795518
+NP21.091,BR,Browns,P1,Ref,P1_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.825237577,-28.71685052,10.08710714
+NP20.240,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.027904891,-28.07473749,5.813635783
+NP20.279,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,5.699080161,-29.34196869,9.393606548
+NP20.282,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,5.639035564,-30.45254515,9.015489934
+NP21.180,SH,Sherman,P1,Res,P1_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,9.215358462,-26.72610194,15.35643819
+NP21.004,BR,Browns,P1,Ref,P1_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,10.36156473,-27.95943982,19.92252793
+NP21.006,BR,Browns,P1,Ref,P1_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,10.73908144,-27.79092183,20.51774819
+NP21.109,SH,Sherman,P1,Res,P1_Res,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,11.66542758,-28.61437361,19.6249178
+NP21.110,SH,Sherman,P1,Res,P1_Res,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,10.82985587,-30.91370504,19.36832108
+NP21.007,BR,Browns,P1,Ref,P1_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,7.728704305,-28.57675628,21.04566439
+NP20.283,BR,Browns,P1,Ref,P1_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,7.453269531,-29.97615778,18.41239313
+NP21.034,SH,Sherman,P1,Res,P1_Res,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,10.11926456,-29.1385878,19.79212632
+NB20.012,BR,Browns,P1,Ref,P1_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,8.17152416,-29.00052976,2.99900805
+NB21.001,BR,Browns,P1,Ref,P1_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.880694045,-26.51561768,10.83916422
+NB20.002,SH,Sherman,P1,Res,P1_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,7.719450077,-28.11523354,2.878997226
+NB21.019,SH,Sherman,P1,Res,P1_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.303334899,-27.18754632,3.042362358
+NB20.025,BR,Browns,P1,Ref,P1_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.316666667,-27.72333333,1.726666667
+NB20.008,BR,Browns,P1,Ref,P1_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.06724798,-28.63204214,7.669109644
+NB21.006,BR,Browns,P1,Ref,P1_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,4.982284796,-28.34249543,5.071010397
+NB21.024,BR,Browns,P1,Ref,P1_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,4.82,-28.12,4.043333333
+NB20.001,SH,Sherman,P1,Res,P1_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,8.911866348,-27.87875554,5.082377313
+NB21.017,SH,Sherman,P1,Res,P1_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,7.524505449,-27.88775073,5.149440724
+NB21.025,SH,Sherman,P1,Res,P1_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,5.64,-27.68333333,4.593333333
+NB21.027,SH,Sherman,P1,Res,P1_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,5.885955659,-27.59784049,3.48887704
+NP21.301,BR,Browns,P1,Ref,P1_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,13.42409782,-23.37416574,20.37827227
+NP20.424,BR,Browns,P1,Ref,P1_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,11.52865186,-20.5481828,18.91746513
+NP20.368,BR,Browns,P1,Ref,P1_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,10.68080203,-16.22128719,19.09318071
+NP21.356,SH,Sherman,P1,Res,P1_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,11.95205123,-24.51518932,20.08357364
+NP21.355,SH,Sherman,P1,Res,P1_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,11.2187691,-28.19682132,20.45094428
+NP20.392,SH,Sherman,P1,Res,P1_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,12.10447165,-21.26574068,14.09303564
+NP21.337,BR,Browns,P1,Ref,P1_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,8.779943556,-22.70645672,20.78449844
+NP21.354,BR,Browns,P1,Ref,P1_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,9.352059998,-25.71086874,20.61861532
+NP20.375,BR,Browns,P1,Ref,P1_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,8.92229423,-18.74828085,19.8925355
+NP21.303,SH,Sherman,P1,Res,P1_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,9.066577593,-18.37507776,20.78182468
+NP20.395,SH,Sherman,P1,Res,P1_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,10.85535028,-16.56354507,15.65005007
+NP20.404,SH,Sherman,P1,Res,P1_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,9.483878119,-20.09401048,15.4867924
+NP20.331,BR,Browns,P1,Ref,P1_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,12.92278115,-24.96661775,13.43852619
+NP20.291,BR,Browns,P1,Ref,P1_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,12.58233109,-25.6148464,13.28353271
+NP21.250,SH,Sherman,P1,Res,P1_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,12.17714584,-21.04322749,16.68667503
+NP21.265,BR,Browns,P1,Ref,P1_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,11.86156506,-17.60248476,20.7617254
+NP21.019,BR,Browns,P1,Ref,P1_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,11.46210119,-21.89205637,18.59327279
+NP21.101,BR,Browns,P1,Ref,P1_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,8.299089782,-26.16946477,16.16927508
+NP20.017,BR,Browns,P1,Ref,P1_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,10.83401898,-24.72795747,17.24624787
+NP21.108,SH,Sherman,P1,Res,P1_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,8.857951348,-24.02877825,19.10015647
+NP21.116,SH,Sherman,P1,Res,P1_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,7.986900571,-24.40925123,18.0296013
+NP20.300,SH,Sherman,P1,Res,P1_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,9.808181083,-22.47489231,13.02523721
+NP20.350,SH,Sherman,P1,Res,P1_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,11.38857712,-28.49339955,11.29555528
+NP20.021,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,10.33656317,-27.20867763,11.92931353
+NP20.390,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,8.739681926,-28.15301979,2.642377611
+NP21.276,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,4.997247409,-26.18389309,14.79857226
+NP21.235,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus americanus,Tule,7.771110939,-27.39644066,3.794952021
+NP21.225,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,8.612719639,-25.65182601,-1.031049748
+NP20.227,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus sp.,Tule,6.040117046,-27.4682974,8.682634573
+NP20.229,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus sp.,Tule,5.080645947,-28.4215578,4.38580899
+NP20.262,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.709097666,-28.25158453,11.68935727
+NP21.075,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.8829307,-26.73601109,13.23531796
+NP21.120,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,9.41693873,-28.43543061,6.505088426
+NP20.170,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.003414627,-27.30052724,10.73201102
+NP21.025,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,11.79179855,-27.27506894,11.18699859
+NP21.032,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.715749487,-27.56738892,3.076672906
+NP20.164,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,6.758130937,-26.81032973,6.310019949
+NP21.273,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,7.608695225,-26.33735457,12.65955463
+NP21.243,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus americanus,Tule,5.94811759,-28.06009423,27.18270995
+NP20.008,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,2.881905774,-26.11523927,18.81886122
+NP21.299,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,9.360816262,-27.51153677,12.05594104
+NP20.380,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,10.86094686,-27.56605597,13.56371336
+NP21.258,CH,Chipps,P2,Ref,P2_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,10.86651917,-27.26218705,13.67914061
+NP20.165,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,6.712947953,-29.70139162,15.73148727
+NP20.225,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.409946081,-27.34192145,14.02123772
+NP21.118,WH,Wheeler,P2,Res,P2_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,10.04982361,-27.77845385,15.16537079
+NP21.001,CH,Chipps,P2,Ref,P2_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,11.91655327,-27.70732693,20.53352258
+NP21.122,WH,Wheeler,P2,Res,P2_Res,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,11.33317636,-28.76953895,20.30426813
+NP21.129,CH,Chipps,P2,Ref,P2_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,12.48255191,-27.37205013,20.63027216
+NP21.123,CH,Chipps,P2,Ref,P2_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,12.23534867,-28.04870446,19.18113167
+NP20.288,CH,Chipps,P2,Ref,P2_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,10.00989284,-30.54715034,17.8182245
+NP20.268,CH,Chipps,P2,Ref,P2_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,9.717315908,-29.57940702,19.1253955
+NP21.121,WH,Wheeler,P2,Res,P2_Res,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,12.24452079,-28.03913182,19.44508977
+NP21.015,WH,Wheeler,P2,Res,P2_Res,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,12.31638572,-26.70657358,20.42730836
+NB20.007,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,7.792127213,-26.74179198,2.319716844
+NB20.031,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,5.060356754,-27.02237006,1.135222978
+NB21.021,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.314265451,-26.46617651,2.564545161
+NB20.004,WH,Wheeler,P2,Res,P2_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.871292408,-27.48455908,6.060975456
+NB21.013,WH,Wheeler,P2,Res,P2_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,10.36804289,-26.81732704,6.564561266
+NB20.009,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,5.107972186,-27.39972724,0.314347794
+NB20.030,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,2.891104841,-27.46486599,3.29409537
+NB20.032,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,3.924801778,-27.36184897,1.781887642
+NB21.022,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.158695407,-27.47555534,3.852788994
+NB21.026,CH,Chipps,P2,Ref,P2_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,4.885392609,-27.47990558,1.220236115
+NB20.003,WH,Wheeler,P2,Res,P2_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,9.038686488,-26.8483033,3.809402304
+NB21.014,WH,Wheeler,P2,Res,P2_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.671613572,-23.87584438,3.512664055
+NB21.023,WH,Wheeler,P2,Res,P2_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,5.494324666,-27.06029072,3.090023558
+NP21.311,CH,Chipps,P2,Ref,P2_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,11.53067927,-14.58431881,20.23874312
+NP20.408,CH,Chipps,P2,Ref,P2_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,14.96075393,-20.51124128,19.62926012
+NP21.352,WH,Wheeler,P2,Res,P2_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,10.09199852,-11.67551997,20.53403541
+NP21.306,CH,Chipps,P2,Ref,P2_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,10.55056512,-17.38457613,20.42577296
+NP20.376,CH,Chipps,P2,Ref,P2_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,11.00853762,-25.29380368,20.64811038
+NP21.358,CH,Chipps,P2,Ref,P2_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,9.965077194,-20.07997729,20.44483493
+NP20.427,CH,Chipps,P2,Ref,P2_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,9.571485438,-21.73724924,20.52689532
+NP21.336,WH,Wheeler,P2,Res,P2_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,9.157199437,-16.25843536,20.57766806
+NP20.394,WH,Wheeler,P2,Res,P2_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,8.884809605,-13.96209599,19.90042347
+NP20.339,WH,Wheeler,P2,Res,P2_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,11.51465859,-26.0752006,19.78010353
+NP20.423,WH,Wheeler,P2,Res,P2_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,10.51019974,-20.81035529,19.98917522
+NP21.330,WH,Wheeler,P2,Res,P2_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,8.838881045,-13.18901404,20.48280928
+NP21.185,CH,Chipps,P2,Ref,P2_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,10.52623407,-16.50104264,20.87845588
+NP21.282,CH,Chipps,P2,Ref,P2_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,13.73476655,-19.27550625,20.84953616
+NP21.063,WH,Wheeler,P2,Res,P2_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,13.74230178,-16.71022244,20.38839821
+NP20.321,WH,Wheeler,P2,Res,P2_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,8.529364467,-19.09869151,17.71856272
+NP20.103,CH,Chipps,P2,Ref,P2_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,12.9900896,-28.65240253,17.96496676
+NP20.058,CH,Chipps,P2,Ref,P2_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,9.777516604,-23.61903646,15.45441215
+NP20.428,CH,Chipps,P2,Ref,P2_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,8.819279651,-23.54728903,14.89769758
+NP20.355,WH,Wheeler,P2,Res,P2_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,10.15210387,-19.51851395,17.20706806
+NP20.421,WH,Wheeler,P2,Res,P2_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,10.60631249,-21.3888466,14.04458629
+NP21.127,CH,Chipps,P2,Ref,P2_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,2.774929214,-18.99291039,19.82682997
+NP21.272,WH,Wheeler,P2,Res,P2_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,6.043758467,-16.79735099,17.28399854
+NP21.277,WH,Wheeler,P2,Res,P2_Res,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,2.02119088,-17.40548346,24.64012173
+NP21.064,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus sp.,Tule,8.701310029,-25.94057589,16.02449307
+NP20.180,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,4.284779516,-28.21643836,14.68637118
+NP20.252,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,6.60115444,-27.73386267,7.1675743
+NP21.254,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus americanus,Tule,7.751424186,-27.13293116,8.310917423
+NP20.012,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,6.941817184,-28.17184717,16.35701392
+NP20.382,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,3.45498573,-27.99645519,17.3432927
+NP20.178,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,4.815144941,-28.91288233,10.28538937
+NP21.072,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,6.19157343,-25.66879545,9.14712444
+NP21.106,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.776844323,-27.40487883,12.79915027
+NP20.023,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,5.52169125,-25.85905116,12.95852983
+NP21.264,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,6.138094758,-23.66389415,17.65660957
+NP21.297,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus acutus,Tule,8.535941302,-27.82552702,17.23515512
+NP21.202,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Schoenoplectus californicus,Tule,9.967168262,-25.45831647,9.427301863
+NP20.171,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Schoenoplectus sp.,Tule,6.198131251,-28.40669407,8.146140945
+NP20.276,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.384266238,-27.23995034,9.3060917
+NP20.281,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,7.918433476,-28.24350761,14.32070004
+NP21.119,RY,Ryer,P3,Ref,P3_Ref,Emergent,Emergent,Emergent,Emergent,Typha,Typha,10.37420018,-27.83989059,13.99190078
+NP20.173,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.863725743,-29.27836295,27.17555834
+NP21.010,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.337358593,-26.9001727,14.62871845
+NP21.018,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.386622552,-27.01445825,15.88240032
+NP21.043,TR,Tule Red,P3,Res,P3_Res,Emergent,Emergent,Emergent,Emergent,Typha,Typha,8.128595807,-27.21065946,17.89165805
+NP21.126,RY,Ryer,P3,Ref,P3_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,8.887709038,-27.37664212,19.6859121
+NP20.286,RY,Ryer,P3,Ref,P3_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,9.241983504,-29.68553855,21.50522491
+NP20.287,RY,Ryer,P3,Ref,P3_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,11.12656153,-28.85535461,22.50006302
+NP21.113,RY,Ryer,P3,Ref,P3_Ref,FAV,FAV,FAV,FAV,Alternanthera philoxeroides,Alternanthera,12.41658044,-27.29131764,20.27517315
+NB20.011,RY,Ryer,P3,Ref,P3_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,9.175150356,-29.62712182,7.309480969
+NB20.029,RY,Ryer,P3,Ref,P3_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.220503892,-27.56121691,2.85990596
+NB21.015,RY,Ryer,P3,Ref,P3_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,11.06506078,-25.50880337,9.441897796
+NB20.006,TR,Tule Red,P3,Res,P3_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,10.16602738,-28.6902603,5.0227304
+NB21.016,TR,Tule Red,P3,Res,P3_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,8.235962692,-25.14761787,5.626888971
+NB20.010,RY,Ryer,P3,Ref,P3_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,9.189494782,-30.53688875,9.047969784
+NB21.018,RY,Ryer,P3,Ref,P3_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,11.30051191,-26.64819568,9.705258056
+NB21.029,RY,Ryer,P3,Ref,P3_Ref,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,5.748447048,-26.85726541,-0.006552309
+NB20.005,TR,Tule Red,P3,Res,P3_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.495257104,-26.97752241,2.307397505
+NB20.027,TR,Tule Red,P3,Res,P3_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,7.126666667,-28.30666667,1.033333333
+NB21.012,TR,Tule Red,P3,Res,P3_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,10.62133124,-26.09606364,6.213394745
+NB21.028,TR,Tule Red,P3,Res,P3_Res,Phyto,Phyto,Phyto,Phyto,Phytoplankton,Phyto,6.625031292,-28.39455577,2.537539951
+NP21.313,RY,Ryer,P3,Ref,P3_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,12.68791001,-19.28909249,21.98963764
+NP21.305,RY,Ryer,P3,Ref,P3_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,13.66749155,-19.21861199,19.64279708
+NP20.373,RY,Ryer,P3,Ref,P3_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,13.97896384,-21.16546234,21.52653171
+NP21.307,TR,Tule Red,P3,Res,P3_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,13.94609157,-20.11896992,19.3540652
+NP20.410,TR,Tule Red,P3,Res,P3_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,15.10712868,-19.30984739,19.94823029
+NP20.457/456,TR,Tule Red,P3,Res,P3_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,12.62000428,-21.12266706,18.46356776
+NP20.409,TR,Tule Red,P3,Res,P3_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,19.57937558,-22.33244252,19.94495358
+NP21.357,RY,Ryer,P3,Ref,P3_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,13.89045582,-19.50157323,19.62879976
+NP20.403,RY,Ryer,P3,Ref,P3_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,12.45957477,-24.15454295,20.33122497
+NP20.371,RY,Ryer,P3,Ref,P3_Ref,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,12.74028861,-20.83465644,19.54169799
+NP21.341,TR,Tule Red,P3,Res,P3_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,10.41476197,-23.66583092,20.66165432
+NP21.362,TR,Tule Red,P3,Res,P3_Res,Algae,Algae,SAV-Algae,Algae,Green Algae,Algae,12.52466123,-21.72952676,19.75493454
+NP21.284,RY,Ryer,P3,Ref,P3_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,11.61900678,-17.60014056,20.50302543
+NP21.074,RY,Ryer,P3,Ref,P3_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,10.13461512,-15.06854235,17.33973471
+NP21.285,RY,Ryer,P3,Ref,P3_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,12.56547636,-16.50999557,20.16755677
+NP20.309,RY,Ryer,P3,Ref,P3_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,12.17270716,-17.27405539,17.71662126
+NP20.358,RY,Ryer,P3,Ref,P3_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton crispus,Potamogeton,9.407191062,-23.91135723,13.20433719
+NP20.357,RY,Ryer,P3,Ref,P3_Ref,SAV,SAV,SAV-Algae,SAV,Potamogeton foliosus,Potamogeton,10.93571036,-19.92742026,17.3470152

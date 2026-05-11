@@ -1,0 +1,385 @@
+﻿Model Output,Taxa,Source,SiteCode,Site,Pair ,SiteType,PairID,Mean,SD,2.50%,5%,25%,50%,75%,95%,97.50%
+p.Annelid (non-nereid).Emergent,Annelid (non-nereid),Emergent,BR,Browns,P1,Ref,P1_Ref,0.175,0.153,0.007,0.012,0.057,0.134,0.248,0.49,0.581
+p.Corbicula fluminea.Emergent,Corbicula fluminea,Emergent,BR,Browns,P1,Ref,P1_Ref,0.199,0.215,0.003,0.005,0.036,0.117,0.287,0.684,0.809
+p.Gammarus sp. .Emergent,Gammarus sp,Emergent,BR,Browns,P1,Ref,P1_Ref,0.159,0.164,0.003,0.005,0.035,0.098,0.229,0.514,0.605
+p.Gnorimosphaeroma oregonense.Emergent,Gnorimosphaeroma oregonense,Emergent,BR,Browns,P1,Ref,P1_Ref,0.146,0.143,0.003,0.006,0.034,0.095,0.222,0.445,0.511
+p.Mysida.Emergent,Mysida,Emergent,BR,Browns,P1,Ref,P1_Ref,0.197,0.196,0.003,0.006,0.043,0.13,0.294,0.61,0.71
+p.Nereididae.Emergent,Nereididae,Emergent,BR,Browns,P1,Ref,P1_Ref,0.127,0.124,0.003,0.007,0.033,0.084,0.186,0.384,0.458
+p.Potamocorbula amurensis.Emergent,Potamocorbula amurensis,Emergent,BR,Browns,P1,Ref,P1_Ref,0.219,0.223,0.003,0.006,0.042,0.135,0.336,0.701,0.792
+p.Sinocorophium sp..Emergent,Sinocorophium sp,Emergent,BR,Browns,P1,Ref,P1_Ref,0.279,0.272,0.003,0.006,0.046,0.172,0.468,0.822,0.881
+p.Annelid (non-nereid).FAV,Annelid (non-nereid),FAV,BR,Browns,P1,Ref,P1_Ref,0.026,0.024,0.001,0.002,0.008,0.018,0.035,0.075,0.09
+p.Corbicula fluminea.FAV,Corbicula fluminea,FAV,BR,Browns,P1,Ref,P1_Ref,0.027,0.035,0,0.001,0.004,0.013,0.037,0.096,0.126
+p.Gammarus sp. .FAV,Gammarus sp,FAV,BR,Browns,P1,Ref,P1_Ref,0.026,0.033,0,0.001,0.005,0.014,0.033,0.092,0.125
+p.Gnorimosphaeroma oregonense.FAV,Gnorimosphaeroma oregonense,FAV,BR,Browns,P1,Ref,P1_Ref,0.029,0.04,0,0.001,0.005,0.014,0.037,0.113,0.141
+p.Mysida.FAV,Mysida,FAV,BR,Browns,P1,Ref,P1_Ref,0.039,0.055,0,0.001,0.005,0.018,0.048,0.155,0.215
+p.Nereididae.FAV,Nereididae,FAV,BR,Browns,P1,Ref,P1_Ref,0.024,0.033,0,0.001,0.004,0.012,0.03,0.088,0.116
+p.Potamocorbula amurensis.FAV,Potamocorbula amurensis,FAV,BR,Browns,P1,Ref,P1_Ref,0.037,0.052,0,0.001,0.005,0.017,0.046,0.147,0.199
+p.Sinocorophium sp..FAV,Sinocorophium sp,FAV,BR,Browns,P1,Ref,P1_Ref,0.037,0.049,0,0.001,0.005,0.016,0.048,0.145,0.183
+p.Annelid (non-nereid).Phyto,Annelid (non-nereid),Phyto,BR,Browns,P1,Ref,P1_Ref,0.575,0.144,0.217,0.285,0.502,0.604,0.677,0.762,0.784
+p.Corbicula fluminea.Phyto,Corbicula fluminea,Phyto,BR,Browns,P1,Ref,P1_Ref,0.654,0.197,0.117,0.227,0.569,0.699,0.795,0.893,0.917
+p.Gammarus sp. .Phyto,Gammarus sp,Phyto,BR,Browns,P1,Ref,P1_Ref,0.412,0.131,0.103,0.153,0.341,0.431,0.501,0.595,0.628
+p.Gnorimosphaeroma oregonense.Phyto,Gnorimosphaeroma oregonense,Phyto,BR,Browns,P1,Ref,P1_Ref,0.27,0.119,0.05,0.072,0.183,0.273,0.354,0.467,0.501
+p.Mysida.Phyto,Mysida,Phyto,BR,Browns,P1,Ref,P1_Ref,0.374,0.176,0.059,0.09,0.245,0.373,0.492,0.672,0.736
+p.Nereididae.Phyto,Nereididae,Phyto,BR,Browns,P1,Ref,P1_Ref,0.313,0.113,0.084,0.113,0.239,0.316,0.391,0.497,0.523
+p.Potamocorbula amurensis.Phyto,Potamocorbula amurensis,Phyto,BR,Browns,P1,Ref,P1_Ref,0.478,0.205,0.076,0.12,0.34,0.487,0.629,0.806,0.847
+p.Sinocorophium sp..Phyto,Sinocorophium sp,Phyto,BR,Browns,P1,Ref,P1_Ref,0.504,0.218,0.044,0.091,0.348,0.548,0.665,0.803,0.839
+p.Annelid (non-nereid).SAV/Algae,Annelid (non-nereid),SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.224,0.067,0.104,0.118,0.177,0.221,0.268,0.338,0.361
+p.Corbicula fluminea.SAV/Algae,Corbicula fluminea,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.121,0.073,0.015,0.022,0.065,0.109,0.168,0.258,0.287
+p.Gammarus sp. .SAV/Algae,Gammarus sp,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.403,0.098,0.19,0.231,0.345,0.411,0.469,0.552,0.576
+p.Gnorimosphaeroma oregonense.SAV/Algae,Gnorimosphaeroma oregonense,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.555,0.117,0.298,0.35,0.483,0.561,0.635,0.737,0.774
+p.Mysida.SAV/Algae,Mysida,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.39,0.171,0.067,0.099,0.269,0.392,0.512,0.668,0.711
+p.Nereididae.SAV/Algae,Nereididae,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.536,0.109,0.304,0.35,0.468,0.542,0.608,0.703,0.74
+p.Potamocorbula amurensis.SAV/Algae,Potamocorbula amurensis,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.266,0.149,0.031,0.048,0.149,0.26,0.368,0.536,0.575
+p.Sinocorophium sp..SAV/Algae,Sinocorophium sp,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.181,0.106,0.02,0.028,0.094,0.168,0.256,0.365,0.401
+p.Annelid (non-nereid).Emergent,Annelid (non-nereid),Emergent,CH,Chipps,P2,Ref,P2_Ref,0.281,0.175,0.028,0.047,0.148,0.253,0.381,0.613,0.713
+p.Corbicula fluminea.Emergent,Corbicula fluminea,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.444,0.255,0.018,0.035,0.235,0.46,0.643,0.856,0.898
+p.Gammarus sp. .Emergent,Gammarus sp,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.197,0.136,0.014,0.023,0.083,0.172,0.287,0.454,0.504
+p.Gnorimosphaeroma oregonense.Emergent,Gnorimosphaeroma oregonense,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.116,0.083,0.008,0.015,0.051,0.099,0.163,0.28,0.317
+p.Mysida.Emergent,Mysida,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.347,0.235,0.017,0.028,0.142,0.312,0.526,0.768,0.831
+p.Nereididae.Emergent,Nereididae,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.398,0.273,0.016,0.028,0.15,0.368,0.627,0.856,0.901
+p.Potamocorbula amurensis.Emergent,Potamocorbula amurensis,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.419,0.257,0.018,0.033,0.195,0.417,0.626,0.848,0.897
+p.Sinocorophium sp..Emergent,Sinocorophium sp,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.336,0.197,0.019,0.038,0.176,0.331,0.484,0.663,0.712
+p.Annelid (non-nereid).FAV,Annelid (non-nereid),FAV,CH,Chipps,P2,Ref,P2_Ref,0.067,0.047,0.002,0.005,0.03,0.059,0.097,0.156,0.174
+p.Corbicula fluminea.FAV,Corbicula fluminea,FAV,CH,Chipps,P2,Ref,P2_Ref,0.091,0.089,0.001,0.002,0.017,0.057,0.146,0.276,0.305
+p.Gammarus sp. .FAV,Gammarus sp,FAV,CH,Chipps,P2,Ref,P2_Ref,0.054,0.049,0.001,0.003,0.017,0.04,0.079,0.156,0.178
+p.Gnorimosphaeroma oregonense.FAV,Gnorimosphaeroma oregonense,FAV,CH,Chipps,P2,Ref,P2_Ref,0.042,0.04,0.001,0.002,0.012,0.03,0.06,0.125,0.148
+p.Mysida.FAV,Mysida,FAV,CH,Chipps,P2,Ref,P2_Ref,0.131,0.116,0.001,0.003,0.029,0.102,0.213,0.355,0.393
+p.Nereididae.FAV,Nereididae,FAV,CH,Chipps,P2,Ref,P2_Ref,0.183,0.157,0.001,0.002,0.034,0.154,0.309,0.463,0.503
+p.Potamocorbula amurensis.FAV,Potamocorbula amurensis,FAV,CH,Chipps,P2,Ref,P2_Ref,0.096,0.093,0.001,0.002,0.019,0.064,0.153,0.286,0.317
+p.Sinocorophium sp..FAV,Sinocorophium sp,FAV,CH,Chipps,P2,Ref,P2_Ref,0.068,0.066,0.001,0.003,0.018,0.047,0.101,0.203,0.24
+p.Annelid (non-nereid).Phyto,Annelid (non-nereid),Phyto,CH,Chipps,P2,Ref,P2_Ref,0.514,0.151,0.124,0.214,0.435,0.54,0.624,0.711,0.731
+p.Corbicula fluminea.Phyto,Corbicula fluminea,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.383,0.177,0.038,0.073,0.254,0.393,0.525,0.651,0.675
+p.Gammarus sp. .Phyto,Gammarus sp,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.269,0.099,0.055,0.09,0.203,0.279,0.344,0.414,0.435
+p.Gnorimosphaeroma oregonense.Phyto,Gnorimosphaeroma oregonense,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.132,0.061,0.026,0.039,0.086,0.129,0.173,0.236,0.258
+p.Mysida.Phyto,Mysida,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.297,0.146,0.038,0.059,0.181,0.303,0.409,0.531,0.568
+p.Nereididae.Phyto,Nereididae,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.28,0.156,0.026,0.044,0.154,0.275,0.399,0.536,0.577
+p.Potamocorbula amurensis.Phyto,Potamocorbula amurensis,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.371,0.179,0.038,0.068,0.235,0.38,0.511,0.644,0.682
+p.Sinocorophium sp..Phyto,Sinocorophium sp,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.276,0.126,0.042,0.069,0.181,0.277,0.371,0.48,0.509
+p.Annelid (non-nereid).SAV/Algae,Annelid (non-nereid),SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.138,0.043,0.067,0.075,0.107,0.133,0.165,0.214,0.233
+p.Corbicula fluminea.SAV/Algae,Corbicula fluminea,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.082,0.055,0.01,0.015,0.039,0.07,0.113,0.188,0.218
+p.Gammarus sp. .SAV/Algae,Gammarus sp,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.479,0.078,0.321,0.346,0.429,0.482,0.533,0.603,0.625
+p.Gnorimosphaeroma oregonense.SAV/Algae,Gnorimosphaeroma oregonense,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.71,0.08,0.545,0.576,0.66,0.712,0.765,0.839,0.859
+p.Mysida.SAV/Algae,Mysida,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.225,0.11,0.033,0.049,0.142,0.219,0.302,0.412,0.449
+p.Nereididae.SAV/Algae,Nereididae,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.139,0.1,0.013,0.019,0.063,0.117,0.193,0.333,0.382
+p.Potamocorbula amurensis.SAV/Algae,Potamocorbula amurensis,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.114,0.076,0.013,0.018,0.054,0.1,0.158,0.262,0.294
+p.Sinocorophium sp..SAV/Algae,Sinocorophium sp,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.32,0.098,0.117,0.152,0.254,0.322,0.387,0.473,0.504
+p.Annelid (non-nereid).Emergent,Annelid (non-nereid),Emergent,RY,Ryer,P3,Ref,P3_Ref,0.066,0.054,0.002,0.004,0.025,0.055,0.092,0.166,0.201
+p.Corbicula fluminea.Emergent,Corbicula fluminea,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.183,0.164,0.001,0.003,0.032,0.139,0.305,0.483,0.54
+p.Gammarus sp. .Emergent,Gammarus sp,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.081,0.086,0.001,0.002,0.017,0.05,0.115,0.257,0.308
+p.Gnorimosphaeroma oregonense.Emergent,Gnorimosphaeroma oregonense,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.042,0.047,0.001,0.001,0.009,0.025,0.059,0.141,0.179
+p.Mysida.Emergent,Mysida,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.102,0.108,0.001,0.003,0.023,0.064,0.144,0.335,0.394
+p.Nereididae.Emergent,Nereididae,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.037,0.039,0.001,0.002,0.011,0.025,0.051,0.112,0.143
+p.Potamocorbula amurensis.Emergent,Potamocorbula amurensis,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.177,0.175,0.002,0.003,0.026,0.115,0.288,0.523,0.593
+p.Sinocorophium sp..Emergent,Sinocorophium sp,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.123,0.132,0.001,0.003,0.023,0.075,0.184,0.405,0.476
+p.Annelid (non-nereid).FAV,Annelid (non-nereid),FAV,RY,Ryer,P3,Ref,P3_Ref,0.018,0.018,0,0.001,0.005,0.013,0.025,0.053,0.068
+p.Corbicula fluminea.FAV,Corbicula fluminea,FAV,RY,Ryer,P3,Ref,P3_Ref,0.036,0.052,0,0.001,0.004,0.014,0.044,0.151,0.197
+p.Gammarus sp. .FAV,Gammarus sp,FAV,RY,Ryer,P3,Ref,P3_Ref,0.021,0.029,0,0.001,0.004,0.01,0.026,0.082,0.107
+p.Gnorimosphaeroma oregonense.FAV,Gnorimosphaeroma oregonense,FAV,RY,Ryer,P3,Ref,P3_Ref,0.014,0.022,0,0,0.002,0.006,0.016,0.053,0.076
+p.Mysida.FAV,Mysida,FAV,RY,Ryer,P3,Ref,P3_Ref,0.058,0.086,0,0.001,0.005,0.02,0.074,0.259,0.321
+p.Nereididae.FAV,Nereididae,FAV,RY,Ryer,P3,Ref,P3_Ref,0.014,0.018,0,0,0.003,0.007,0.018,0.048,0.064
+p.Potamocorbula amurensis.FAV,Potamocorbula amurensis,FAV,RY,Ryer,P3,Ref,P3_Ref,0.038,0.056,0,0.001,0.004,0.015,0.046,0.156,0.21
+p.Sinocorophium sp..FAV,Sinocorophium sp,FAV,RY,Ryer,P3,Ref,P3_Ref,0.026,0.036,0,0.001,0.004,0.012,0.033,0.098,0.129
+p.Annelid (non-nereid).Phyto,Annelid (non-nereid),Phyto,RY,Ryer,P3,Ref,P3_Ref,0.747,0.067,0.598,0.632,0.708,0.754,0.792,0.84,0.855
+p.Corbicula fluminea.Phyto,Corbicula fluminea,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.662,0.128,0.392,0.438,0.576,0.674,0.757,0.85,0.878
+p.Gammarus sp. .Phyto,Gammarus sp,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.279,0.067,0.135,0.167,0.237,0.282,0.324,0.382,0.403
+p.Gnorimosphaeroma oregonense.Phyto,Gnorimosphaeroma oregonense,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.093,0.045,0.022,0.029,0.06,0.088,0.121,0.172,0.196
+p.Mysida.Phyto,Mysida,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.509,0.089,0.317,0.356,0.454,0.514,0.567,0.644,0.671
+p.Nereididae.Phyto,Nereididae,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.383,0.081,0.227,0.254,0.329,0.383,0.438,0.517,0.542
+p.Potamocorbula amurensis.Phyto,Potamocorbula amurensis,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.59,0.129,0.3,0.356,0.51,0.608,0.679,0.774,0.814
+p.Sinocorophium sp..Phyto,Sinocorophium sp,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.385,0.095,0.161,0.212,0.331,0.394,0.449,0.528,0.555
+p.Annelid (non-nereid).SAV/Algae,Annelid (non-nereid),SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.17,0.047,0.089,0.099,0.137,0.165,0.198,0.254,0.278
+p.Corbicula fluminea.SAV/Algae,Corbicula fluminea,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.119,0.068,0.017,0.024,0.065,0.112,0.163,0.24,0.267
+p.Gammarus sp. .SAV/Algae,Gammarus sp,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.619,0.069,0.465,0.501,0.579,0.625,0.665,0.722,0.738
+p.Gnorimosphaeroma oregonense.SAV/Algae,Gnorimosphaeroma oregonense,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.851,0.066,0.694,0.729,0.815,0.86,0.897,0.943,0.955
+p.Mysida.SAV/Algae,Mysida,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.331,0.094,0.119,0.159,0.275,0.339,0.399,0.468,0.49
+p.Nereididae.SAV/Algae,Nereididae,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.566,0.083,0.393,0.428,0.513,0.568,0.622,0.697,0.723
+p.Potamocorbula amurensis.SAV/Algae,Potamocorbula amurensis,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.196,0.088,0.038,0.055,0.127,0.196,0.261,0.342,0.364
+p.Sinocorophium sp..SAV/Algae,Sinocorophium sp,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.466,0.091,0.269,0.303,0.411,0.476,0.531,0.596,0.616
+p.Annelid (non-nereid).Emergent,Annelid (non-nereid),Emergent,SH,Sherman,P1,Res,P1_Res,0.092,0.086,0.002,0.005,0.027,0.066,0.13,0.262,0.313
+p.Corbicula fluminea.Emergent,Corbicula fluminea,Emergent,SH,Sherman,P1,Res,P1_Res,0.085,0.113,0.001,0.002,0.012,0.042,0.111,0.316,0.409
+p.Gammarus sp. .Emergent,Gammarus sp,Emergent,SH,Sherman,P1,Res,P1_Res,0.165,0.183,0.001,0.003,0.024,0.094,0.254,0.56,0.641
+p.Gnorimosphaeroma oregonense.Emergent,Gnorimosphaeroma oregonense,Emergent,SH,Sherman,P1,Res,P1_Res,0.092,0.112,0.001,0.002,0.017,0.05,0.123,0.332,0.421
+p.Mysida.Emergent,Mysida,Emergent,SH,Sherman,P1,Res,P1_Res,0.116,0.147,0.001,0.002,0.018,0.056,0.156,0.442,0.551
+p.Nereididae.Emergent,Nereididae,Emergent,SH,Sherman,P1,Res,P1_Res,0.071,0.086,0.001,0.002,0.014,0.04,0.093,0.247,0.31
+p.Potamocorbula amurensis.Emergent,Potamocorbula amurensis,Emergent,SH,Sherman,P1,Res,P1_Res,0.115,0.149,0.001,0.002,0.016,0.056,0.149,0.451,0.55
+p.Sinocorophium sp..Emergent,Sinocorophium sp,Emergent,SH,Sherman,P1,Res,P1_Res,0.078,0.103,0.001,0.002,0.013,0.038,0.103,0.29,0.374
+p.Annelid (non-nereid).FAV,Annelid (non-nereid),FAV,SH,Sherman,P1,Res,P1_Res,0.027,0.026,0.001,0.001,0.009,0.02,0.038,0.076,0.092
+p.Corbicula fluminea.FAV,Corbicula fluminea,FAV,SH,Sherman,P1,Res,P1_Res,0.02,0.026,0,0.001,0.004,0.01,0.027,0.076,0.092
+p.Gammarus sp. .FAV,Gammarus sp,FAV,SH,Sherman,P1,Res,P1_Res,0.044,0.054,0,0.001,0.007,0.023,0.061,0.161,0.197
+p.Gnorimosphaeroma oregonense.FAV,Gnorimosphaeroma oregonense,FAV,SH,Sherman,P1,Res,P1_Res,0.025,0.032,0,0.001,0.004,0.013,0.034,0.088,0.118
+p.Mysida.FAV,Mysida,FAV,SH,Sherman,P1,Res,P1_Res,0.033,0.046,0,0.001,0.005,0.016,0.042,0.126,0.171
+p.Nereididae.FAV,Nereididae,FAV,SH,Sherman,P1,Res,P1_Res,0.056,0.094,0,0,0.004,0.017,0.062,0.261,0.361
+p.Potamocorbula amurensis.FAV,Potamocorbula amurensis,FAV,SH,Sherman,P1,Res,P1_Res,0.033,0.046,0,0.001,0.005,0.015,0.04,0.123,0.162
+p.Sinocorophium sp..FAV,Sinocorophium sp,FAV,SH,Sherman,P1,Res,P1_Res,0.019,0.024,0,0.001,0.004,0.011,0.026,0.071,0.091
+p.Annelid (non-nereid).Phyto,Annelid (non-nereid),Phyto,SH,Sherman,P1,Res,P1_Res,0.636,0.104,0.404,0.446,0.576,0.647,0.707,0.786,0.809
+p.Corbicula fluminea.Phyto,Corbicula fluminea,Phyto,SH,Sherman,P1,Res,P1_Res,0.772,0.128,0.454,0.527,0.71,0.794,0.861,0.935,0.955
+p.Gammarus sp. .Phyto,Gammarus sp,Phyto,SH,Sherman,P1,Res,P1_Res,0.478,0.152,0.13,0.177,0.386,0.5,0.585,0.693,0.726
+p.Gnorimosphaeroma oregonense.Phyto,Gnorimosphaeroma oregonense,Phyto,SH,Sherman,P1,Res,P1_Res,0.417,0.124,0.149,0.198,0.336,0.424,0.5,0.613,0.648
+p.Mysida.Phyto,Mysida,Phyto,SH,Sherman,P1,Res,P1_Res,0.58,0.175,0.184,0.268,0.471,0.59,0.706,0.853,0.892
+p.Nereididae.Phyto,Nereididae,Phyto,SH,Sherman,P1,Res,P1_Res,0.17,0.099,0.031,0.042,0.094,0.153,0.228,0.353,0.409
+p.Potamocorbula amurensis.Phyto,Potamocorbula amurensis,Phyto,SH,Sherman,P1,Res,P1_Res,0.592,0.199,0.175,0.225,0.46,0.611,0.747,0.894,0.924
+p.Sinocorophium sp..Phyto,Sinocorophium sp,Phyto,SH,Sherman,P1,Res,P1_Res,0.766,0.121,0.473,0.553,0.7,0.783,0.85,0.93,0.951
+p.Annelid (non-nereid).SAV/Algae,Annelid (non-nereid),SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.246,0.075,0.113,0.129,0.194,0.242,0.294,0.372,0.397
+p.Corbicula fluminea.SAV/Algae,Corbicula fluminea,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.123,0.073,0.015,0.022,0.067,0.113,0.168,0.258,0.295
+p.Gammarus sp. .SAV/Algae,Gammarus sp,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.313,0.112,0.093,0.122,0.236,0.316,0.391,0.493,0.525
+p.Gnorimosphaeroma oregonense.SAV/Algae,Gnorimosphaeroma oregonense,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.466,0.115,0.231,0.273,0.392,0.466,0.544,0.652,0.687
+p.Mysida.SAV/Algae,Mysida,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.27,0.135,0.039,0.06,0.171,0.264,0.359,0.507,0.558
+p.Nereididae.SAV/Algae,Nereididae,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.704,0.163,0.3,0.376,0.618,0.731,0.824,0.916,0.933
+p.Potamocorbula amurensis.SAV/Algae,Potamocorbula amurensis,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.26,0.159,0.026,0.041,0.135,0.238,0.355,0.558,0.615
+p.Sinocorophium sp..SAV/Algae,Sinocorophium sp,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.136,0.078,0.019,0.029,0.075,0.127,0.186,0.279,0.313
+p.Annelid (non-nereid).Emergent,Annelid (non-nereid),Emergent,TR,Tule Red,P3,Res,P3_Res,0.338,0.111,0.13,0.159,0.259,0.336,0.411,0.523,0.564
+p.Corbicula fluminea.Emergent,Corbicula fluminea,Emergent,TR,Tule Red,P3,Res,P3_Res,0.426,0.222,0.052,0.078,0.247,0.423,0.585,0.805,0.856
+p.Gammarus sp. .Emergent,Gammarus sp,Emergent,TR,Tule Red,P3,Res,P3_Res,0.641,0.162,0.265,0.346,0.548,0.658,0.759,0.874,0.898
+p.Gnorimosphaeroma oregonense.Emergent,Gnorimosphaeroma oregonense,Emergent,TR,Tule Red,P3,Res,P3_Res,0.51,0.23,0.073,0.106,0.341,0.517,0.686,0.871,0.906
+p.Mysida.Emergent,Mysida,Emergent,TR,Tule Red,P3,Res,P3_Res,0.209,0.127,0.028,0.041,0.111,0.187,0.282,0.451,0.508
+p.Nereididae.Emergent,Nereididae,Emergent,TR,Tule Red,P3,Res,P3_Res,0.168,0.131,0.016,0.024,0.07,0.136,0.23,0.431,0.505
+p.Potamocorbula amurensis.Emergent,Potamocorbula amurensis,Emergent,TR,Tule Red,P3,Res,P3_Res,0.543,0.172,0.158,0.231,0.436,0.559,0.665,0.801,0.843
+p.Sinocorophium sp..Emergent,Sinocorophium sp,Emergent,TR,Tule Red,P3,Res,P3_Res,0.427,0.199,0.069,0.103,0.279,0.428,0.573,0.754,0.803
+p.Annelid (non-nereid).FAV,Annelid (non-nereid),FAV,TR,Tule Red,P3,Res,P3_Res,0.037,0.033,0.001,0.002,0.011,0.028,0.053,0.103,0.121
+p.Corbicula fluminea.FAV,Corbicula fluminea,FAV,TR,Tule Red,P3,Res,P3_Res,0.066,0.088,0,0.001,0.007,0.027,0.089,0.264,0.32
+p.Gammarus sp. .FAV,Gammarus sp,FAV,TR,Tule Red,P3,Res,P3_Res,0.035,0.049,0,0.001,0.005,0.017,0.044,0.135,0.178
+p.Gnorimosphaeroma oregonense.FAV,Gnorimosphaeroma oregonense,FAV,TR,Tule Red,P3,Res,P3_Res,0.042,0.062,0,0.001,0.006,0.018,0.05,0.167,0.225
+p.Mysida.FAV,Mysida,FAV,TR,Tule Red,P3,Res,P3_Res,0.076,0.096,0,0.001,0.009,0.035,0.107,0.29,0.347
+p.Nereididae.FAV,Nereididae,FAV,TR,Tule Red,P3,Res,P3_Res,0.024,0.031,0,0.001,0.004,0.013,0.031,0.086,0.11
+p.Potamocorbula amurensis.FAV,Potamocorbula amurensis,FAV,TR,Tule Red,P3,Res,P3_Res,0.057,0.072,0,0.001,0.008,0.027,0.076,0.214,0.273
+p.Sinocorophium sp..FAV,Sinocorophium sp,FAV,TR,Tule Red,P3,Res,P3_Res,0.045,0.059,0,0.001,0.006,0.022,0.06,0.174,0.217
+p.Annelid (non-nereid).Phyto,Annelid (non-nereid),Phyto,TR,Tule Red,P3,Res,P3_Res,0.482,0.09,0.297,0.333,0.422,0.483,0.545,0.625,0.652
+p.Corbicula fluminea.Phyto,Corbicula fluminea,Phyto,TR,Tule Red,P3,Res,P3_Res,0.332,0.159,0.061,0.086,0.213,0.326,0.441,0.598,0.656
+p.Gammarus sp. .Phyto,Gammarus sp,Phyto,TR,Tule Red,P3,Res,P3_Res,0.184,0.09,0.036,0.05,0.118,0.176,0.24,0.341,0.386
+p.Gnorimosphaeroma oregonense.Phyto,Gnorimosphaeroma oregonense,Phyto,TR,Tule Red,P3,Res,P3_Res,0.117,0.073,0.021,0.028,0.062,0.102,0.155,0.262,0.303
+p.Mysida.Phyto,Mysida,Phyto,TR,Tule Red,P3,Res,P3_Res,0.339,0.092,0.149,0.184,0.283,0.34,0.399,0.486,0.516
+p.Nereididae.Phyto,Nereididae,Phyto,TR,Tule Red,P3,Res,P3_Res,0.711,0.145,0.368,0.445,0.627,0.728,0.819,0.917,0.939
+p.Potamocorbula amurensis.Phyto,Potamocorbula amurensis,Phyto,TR,Tule Red,P3,Res,P3_Res,0.272,0.106,0.07,0.098,0.2,0.269,0.341,0.449,0.488
+p.Sinocorophium sp..Phyto,Sinocorophium sp,Phyto,TR,Tule Red,P3,Res,P3_Res,0.352,0.133,0.097,0.13,0.257,0.351,0.442,0.577,0.619
+p.Annelid (non-nereid).SAV/Algae,Annelid (non-nereid),SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.144,0.063,0.037,0.049,0.098,0.14,0.183,0.255,0.278
+p.Corbicula fluminea.SAV/Algae,Corbicula fluminea,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.177,0.134,0.011,0.018,0.068,0.148,0.256,0.438,0.498
+p.Gammarus sp. .SAV/Algae,Gammarus sp,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.14,0.104,0.008,0.012,0.056,0.12,0.202,0.341,0.389
+p.Gnorimosphaeroma oregonense.SAV/Algae,Gnorimosphaeroma oregonense,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.332,0.21,0.014,0.023,0.161,0.315,0.477,0.707,0.766
+p.Mysida.SAV/Algae,Mysida,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.376,0.134,0.063,0.111,0.3,0.391,0.469,0.573,0.601
+p.Nereididae.SAV/Algae,Nereididae,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.097,0.084,0.006,0.01,0.033,0.072,0.138,0.263,0.312
+p.Potamocorbula amurensis.SAV/Algae,Potamocorbula amurensis,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.129,0.085,0.014,0.02,0.062,0.114,0.18,0.289,0.332
+p.Sinocorophium sp..SAV/Algae,Sinocorophium sp,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.176,0.126,0.011,0.017,0.072,0.153,0.257,0.418,0.46
+p.Annelid (non-nereid).Emergent,Annelid (non-nereid),Emergent,WH,Wheeler,P2,Res,P2_Res,0.058,0.06,0.001,0.003,0.016,0.039,0.078,0.177,0.222
+p.Corbicula fluminea.Emergent,Corbicula fluminea,Emergent,WH,Wheeler,P2,Res,P2_Res,0.077,0.097,0.001,0.001,0.01,0.037,0.11,0.283,0.335
+p.Gammarus sp. .Emergent,Gammarus sp,Emergent,WH,Wheeler,P2,Res,P2_Res,0.043,0.053,0.001,0.001,0.008,0.023,0.055,0.155,0.203
+p.Gnorimosphaeroma oregonense.Emergent,Gnorimosphaeroma oregonense,Emergent,WH,Wheeler,P2,Res,P2_Res,0.045,0.054,0.001,0.001,0.008,0.024,0.06,0.161,0.195
+p.Mysida.Emergent,Mysida,Emergent,WH,Wheeler,P2,Res,P2_Res,0.055,0.079,0.001,0.001,0.008,0.026,0.071,0.206,0.28
+p.Nereididae.Emergent,Nereididae,Emergent,WH,Wheeler,P2,Res,P2_Res,0.056,0.08,0.001,0.001,0.009,0.027,0.07,0.222,0.293
+p.Potamocorbula amurensis.Emergent,Potamocorbula amurensis,Emergent,WH,Wheeler,P2,Res,P2_Res,0.054,0.072,0.001,0.001,0.008,0.027,0.071,0.206,0.265
+p.Sinocorophium sp..Emergent,Sinocorophium sp,Emergent,WH,Wheeler,P2,Res,P2_Res,0.056,0.072,0.001,0.001,0.009,0.028,0.071,0.208,0.265
+p.Annelid (non-nereid).FAV,Annelid (non-nereid),FAV,WH,Wheeler,P2,Res,P2_Res,0.02,0.023,0,0.001,0.005,0.013,0.026,0.066,0.082
+p.Corbicula fluminea.FAV,Corbicula fluminea,FAV,WH,Wheeler,P2,Res,P2_Res,0.023,0.031,0,0,0.003,0.011,0.03,0.091,0.117
+p.Gammarus sp. .FAV,Gammarus sp,FAV,WH,Wheeler,P2,Res,P2_Res,0.014,0.018,0,0,0.003,0.008,0.019,0.052,0.065
+p.Gnorimosphaeroma oregonense.FAV,Gnorimosphaeroma oregonense,FAV,WH,Wheeler,P2,Res,P2_Res,0.016,0.021,0,0,0.002,0.008,0.02,0.059,0.079
+p.Mysida.FAV,Mysida,FAV,WH,Wheeler,P2,Res,P2_Res,0.019,0.027,0,0,0.003,0.009,0.023,0.072,0.096
+p.Nereididae.FAV,Nereididae,FAV,WH,Wheeler,P2,Res,P2_Res,0.019,0.027,0,0,0.003,0.009,0.025,0.074,0.096
+p.Potamocorbula amurensis.FAV,Potamocorbula amurensis,FAV,WH,Wheeler,P2,Res,P2_Res,0.018,0.024,0,0,0.003,0.009,0.024,0.068,0.089
+p.Sinocorophium sp..FAV,Sinocorophium sp,FAV,WH,Wheeler,P2,Res,P2_Res,0.016,0.021,0,0,0.003,0.008,0.021,0.059,0.08
+p.Annelid (non-nereid).Phyto,Annelid (non-nereid),Phyto,WH,Wheeler,P2,Res,P2_Res,0.448,0.088,0.275,0.303,0.389,0.448,0.508,0.591,0.618
+p.Corbicula fluminea.Phyto,Corbicula fluminea,Phyto,WH,Wheeler,P2,Res,P2_Res,0.729,0.084,0.527,0.574,0.687,0.742,0.785,0.842,0.859
+p.Gammarus sp. .Phyto,Gammarus sp,Phyto,WH,Wheeler,P2,Res,P2_Res,0.31,0.058,0.184,0.212,0.277,0.313,0.349,0.395,0.411
+p.Gnorimosphaeroma oregonense.Phyto,Gnorimosphaeroma oregonense,Phyto,WH,Wheeler,P2,Res,P2_Res,0.197,0.056,0.078,0.099,0.161,0.199,0.235,0.285,0.301
+p.Mysida.Phyto,Mysida,Phyto,WH,Wheeler,P2,Res,P2_Res,0.366,0.116,0.136,0.175,0.292,0.367,0.442,0.553,0.589
+p.Nereididae.Phyto,Nereididae,Phyto,WH,Wheeler,P2,Res,P2_Res,0.475,0.089,0.277,0.323,0.425,0.481,0.532,0.607,0.632
+p.Potamocorbula amurensis.Phyto,Potamocorbula amurensis,Phyto,WH,Wheeler,P2,Res,P2_Res,0.628,0.073,0.461,0.502,0.587,0.634,0.676,0.736,0.757
+p.Sinocorophium sp..Phyto,Sinocorophium sp,Phyto,WH,Wheeler,P2,Res,P2_Res,0.384,0.065,0.24,0.273,0.347,0.389,0.426,0.48,0.498
+p.Annelid (non-nereid).SAV/Algae,Annelid (non-nereid),SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.474,0.084,0.307,0.33,0.418,0.474,0.533,0.612,0.633
+p.Corbicula fluminea.SAV/Algae,Corbicula fluminea,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.171,0.058,0.057,0.073,0.132,0.171,0.21,0.265,0.283
+p.Gammarus sp. .SAV/Algae,Gammarus sp,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.633,0.053,0.526,0.544,0.597,0.635,0.67,0.718,0.736
+p.Gnorimosphaeroma oregonense.SAV/Algae,Gnorimosphaeroma oregonense,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.743,0.058,0.621,0.643,0.707,0.745,0.782,0.835,0.851
+p.Mysida.SAV/Algae,Mysida,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.56,0.118,0.309,0.365,0.484,0.562,0.64,0.747,0.784
+p.Nereididae.SAV/Algae,Nereididae,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.449,0.08,0.284,0.311,0.398,0.453,0.504,0.572,0.595
+p.Potamocorbula amurensis.SAV/Algae,Potamocorbula amurensis,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.3,0.063,0.172,0.194,0.258,0.301,0.342,0.401,0.422
+p.Sinocorophium sp..SAV/Algae,Sinocorophium sp,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.544,0.061,0.419,0.441,0.505,0.547,0.585,0.641,0.66
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.175,0.153,0.007,0.012,0.057,0.134,0.248,0.49,0.581
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.199,0.215,0.003,0.005,0.036,0.117,0.287,0.684,0.809
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.159,0.164,0.003,0.005,0.035,0.098,0.229,0.514,0.605
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.146,0.143,0.003,0.006,0.034,0.095,0.222,0.445,0.511
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.197,0.196,0.003,0.006,0.043,0.13,0.294,0.61,0.71
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.127,0.124,0.003,0.007,0.033,0.084,0.186,0.384,0.458
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.219,0.223,0.003,0.006,0.042,0.135,0.336,0.701,0.792
+NA,All,Emergent,BR,Browns,P1,Ref,P1_Ref,0.279,0.272,0.003,0.006,0.046,0.172,0.468,0.822,0.881
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.026,0.024,0.001,0.002,0.008,0.018,0.035,0.075,0.09
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.027,0.035,0,0.001,0.004,0.013,0.037,0.096,0.126
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.026,0.033,0,0.001,0.005,0.014,0.033,0.092,0.125
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.029,0.04,0,0.001,0.005,0.014,0.037,0.113,0.141
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.039,0.055,0,0.001,0.005,0.018,0.048,0.155,0.215
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.024,0.033,0,0.001,0.004,0.012,0.03,0.088,0.116
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.037,0.052,0,0.001,0.005,0.017,0.046,0.147,0.199
+NA,All,FAV,BR,Browns,P1,Ref,P1_Ref,0.037,0.049,0,0.001,0.005,0.016,0.048,0.145,0.183
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.575,0.144,0.217,0.285,0.502,0.604,0.677,0.762,0.784
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.654,0.197,0.117,0.227,0.569,0.699,0.795,0.893,0.917
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.412,0.131,0.103,0.153,0.341,0.431,0.501,0.595,0.628
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.27,0.119,0.05,0.072,0.183,0.273,0.354,0.467,0.501
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.374,0.176,0.059,0.09,0.245,0.373,0.492,0.672,0.736
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.313,0.113,0.084,0.113,0.239,0.316,0.391,0.497,0.523
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.478,0.205,0.076,0.12,0.34,0.487,0.629,0.806,0.847
+NA,All,Phyto,BR,Browns,P1,Ref,P1_Ref,0.504,0.218,0.044,0.091,0.348,0.548,0.665,0.803,0.839
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.224,0.067,0.104,0.118,0.177,0.221,0.268,0.338,0.361
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.121,0.073,0.015,0.022,0.065,0.109,0.168,0.258,0.287
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.403,0.098,0.19,0.231,0.345,0.411,0.469,0.552,0.576
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.555,0.117,0.298,0.35,0.483,0.561,0.635,0.737,0.774
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.39,0.171,0.067,0.099,0.269,0.392,0.512,0.668,0.711
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.536,0.109,0.304,0.35,0.468,0.542,0.608,0.703,0.74
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.266,0.149,0.031,0.048,0.149,0.26,0.368,0.536,0.575
+NA,All,SAV/Algae,BR,Browns,P1,Ref,P1_Ref,0.181,0.106,0.02,0.028,0.094,0.168,0.256,0.365,0.401
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.281,0.175,0.028,0.047,0.148,0.253,0.381,0.613,0.713
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.444,0.255,0.018,0.035,0.235,0.46,0.643,0.856,0.898
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.197,0.136,0.014,0.023,0.083,0.172,0.287,0.454,0.504
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.116,0.083,0.008,0.015,0.051,0.099,0.163,0.28,0.317
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.347,0.235,0.017,0.028,0.142,0.312,0.526,0.768,0.831
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.398,0.273,0.016,0.028,0.15,0.368,0.627,0.856,0.901
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.419,0.257,0.018,0.033,0.195,0.417,0.626,0.848,0.897
+NA,All,Emergent,CH,Chipps,P2,Ref,P2_Ref,0.336,0.197,0.019,0.038,0.176,0.331,0.484,0.663,0.712
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.067,0.047,0.002,0.005,0.03,0.059,0.097,0.156,0.174
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.091,0.089,0.001,0.002,0.017,0.057,0.146,0.276,0.305
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.054,0.049,0.001,0.003,0.017,0.04,0.079,0.156,0.178
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.042,0.04,0.001,0.002,0.012,0.03,0.06,0.125,0.148
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.131,0.116,0.001,0.003,0.029,0.102,0.213,0.355,0.393
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.183,0.157,0.001,0.002,0.034,0.154,0.309,0.463,0.503
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.096,0.093,0.001,0.002,0.019,0.064,0.153,0.286,0.317
+NA,All,FAV,CH,Chipps,P2,Ref,P2_Ref,0.068,0.066,0.001,0.003,0.018,0.047,0.101,0.203,0.24
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.514,0.151,0.124,0.214,0.435,0.54,0.624,0.711,0.731
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.383,0.177,0.038,0.073,0.254,0.393,0.525,0.651,0.675
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.269,0.099,0.055,0.09,0.203,0.279,0.344,0.414,0.435
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.132,0.061,0.026,0.039,0.086,0.129,0.173,0.236,0.258
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.297,0.146,0.038,0.059,0.181,0.303,0.409,0.531,0.568
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.28,0.156,0.026,0.044,0.154,0.275,0.399,0.536,0.577
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.371,0.179,0.038,0.068,0.235,0.38,0.511,0.644,0.682
+NA,All,Phyto,CH,Chipps,P2,Ref,P2_Ref,0.276,0.126,0.042,0.069,0.181,0.277,0.371,0.48,0.509
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.138,0.043,0.067,0.075,0.107,0.133,0.165,0.214,0.233
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.082,0.055,0.01,0.015,0.039,0.07,0.113,0.188,0.218
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.479,0.078,0.321,0.346,0.429,0.482,0.533,0.603,0.625
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.71,0.08,0.545,0.576,0.66,0.712,0.765,0.839,0.859
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.225,0.11,0.033,0.049,0.142,0.219,0.302,0.412,0.449
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.139,0.1,0.013,0.019,0.063,0.117,0.193,0.333,0.382
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.114,0.076,0.013,0.018,0.054,0.1,0.158,0.262,0.294
+NA,All,SAV/Algae,CH,Chipps,P2,Ref,P2_Ref,0.32,0.098,0.117,0.152,0.254,0.322,0.387,0.473,0.504
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.066,0.054,0.002,0.004,0.025,0.055,0.092,0.166,0.201
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.183,0.164,0.001,0.003,0.032,0.139,0.305,0.483,0.54
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.081,0.086,0.001,0.002,0.017,0.05,0.115,0.257,0.308
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.042,0.047,0.001,0.001,0.009,0.025,0.059,0.141,0.179
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.102,0.108,0.001,0.003,0.023,0.064,0.144,0.335,0.394
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.037,0.039,0.001,0.002,0.011,0.025,0.051,0.112,0.143
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.177,0.175,0.002,0.003,0.026,0.115,0.288,0.523,0.593
+NA,All,Emergent,RY,Ryer,P3,Ref,P3_Ref,0.123,0.132,0.001,0.003,0.023,0.075,0.184,0.405,0.476
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.018,0.018,0,0.001,0.005,0.013,0.025,0.053,0.068
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.036,0.052,0,0.001,0.004,0.014,0.044,0.151,0.197
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.021,0.029,0,0.001,0.004,0.01,0.026,0.082,0.107
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.014,0.022,0,0,0.002,0.006,0.016,0.053,0.076
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.058,0.086,0,0.001,0.005,0.02,0.074,0.259,0.321
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.014,0.018,0,0,0.003,0.007,0.018,0.048,0.064
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.038,0.056,0,0.001,0.004,0.015,0.046,0.156,0.21
+NA,All,FAV,RY,Ryer,P3,Ref,P3_Ref,0.026,0.036,0,0.001,0.004,0.012,0.033,0.098,0.129
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.747,0.067,0.598,0.632,0.708,0.754,0.792,0.84,0.855
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.662,0.128,0.392,0.438,0.576,0.674,0.757,0.85,0.878
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.279,0.067,0.135,0.167,0.237,0.282,0.324,0.382,0.403
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.093,0.045,0.022,0.029,0.06,0.088,0.121,0.172,0.196
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.509,0.089,0.317,0.356,0.454,0.514,0.567,0.644,0.671
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.383,0.081,0.227,0.254,0.329,0.383,0.438,0.517,0.542
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.59,0.129,0.3,0.356,0.51,0.608,0.679,0.774,0.814
+NA,All,Phyto,RY,Ryer,P3,Ref,P3_Ref,0.385,0.095,0.161,0.212,0.331,0.394,0.449,0.528,0.555
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.17,0.047,0.089,0.099,0.137,0.165,0.198,0.254,0.278
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.119,0.068,0.017,0.024,0.065,0.112,0.163,0.24,0.267
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.619,0.069,0.465,0.501,0.579,0.625,0.665,0.722,0.738
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.851,0.066,0.694,0.729,0.815,0.86,0.897,0.943,0.955
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.331,0.094,0.119,0.159,0.275,0.339,0.399,0.468,0.49
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.566,0.083,0.393,0.428,0.513,0.568,0.622,0.697,0.723
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.196,0.088,0.038,0.055,0.127,0.196,0.261,0.342,0.364
+NA,All,SAV/Algae,RY,Ryer,P3,Ref,P3_Ref,0.466,0.091,0.269,0.303,0.411,0.476,0.531,0.596,0.616
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.092,0.086,0.002,0.005,0.027,0.066,0.13,0.262,0.313
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.085,0.113,0.001,0.002,0.012,0.042,0.111,0.316,0.409
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.165,0.183,0.001,0.003,0.024,0.094,0.254,0.56,0.641
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.092,0.112,0.001,0.002,0.017,0.05,0.123,0.332,0.421
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.116,0.147,0.001,0.002,0.018,0.056,0.156,0.442,0.551
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.071,0.086,0.001,0.002,0.014,0.04,0.093,0.247,0.31
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.115,0.149,0.001,0.002,0.016,0.056,0.149,0.451,0.55
+NA,All,Emergent,SH,Sherman,P1,Res,P1_Res,0.078,0.103,0.001,0.002,0.013,0.038,0.103,0.29,0.374
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.027,0.026,0.001,0.001,0.009,0.02,0.038,0.076,0.092
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.02,0.026,0,0.001,0.004,0.01,0.027,0.076,0.092
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.044,0.054,0,0.001,0.007,0.023,0.061,0.161,0.197
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.025,0.032,0,0.001,0.004,0.013,0.034,0.088,0.118
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.033,0.046,0,0.001,0.005,0.016,0.042,0.126,0.171
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.056,0.094,0,0,0.004,0.017,0.062,0.261,0.361
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.033,0.046,0,0.001,0.005,0.015,0.04,0.123,0.162
+NA,All,FAV,SH,Sherman,P1,Res,P1_Res,0.019,0.024,0,0.001,0.004,0.011,0.026,0.071,0.091
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.636,0.104,0.404,0.446,0.576,0.647,0.707,0.786,0.809
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.772,0.128,0.454,0.527,0.71,0.794,0.861,0.935,0.955
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.478,0.152,0.13,0.177,0.386,0.5,0.585,0.693,0.726
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.417,0.124,0.149,0.198,0.336,0.424,0.5,0.613,0.648
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.58,0.175,0.184,0.268,0.471,0.59,0.706,0.853,0.892
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.17,0.099,0.031,0.042,0.094,0.153,0.228,0.353,0.409
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.592,0.199,0.175,0.225,0.46,0.611,0.747,0.894,0.924
+NA,All,Phyto,SH,Sherman,P1,Res,P1_Res,0.766,0.121,0.473,0.553,0.7,0.783,0.85,0.93,0.951
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.246,0.075,0.113,0.129,0.194,0.242,0.294,0.372,0.397
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.123,0.073,0.015,0.022,0.067,0.113,0.168,0.258,0.295
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.313,0.112,0.093,0.122,0.236,0.316,0.391,0.493,0.525
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.466,0.115,0.231,0.273,0.392,0.466,0.544,0.652,0.687
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.27,0.135,0.039,0.06,0.171,0.264,0.359,0.507,0.558
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.704,0.163,0.3,0.376,0.618,0.731,0.824,0.916,0.933
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.26,0.159,0.026,0.041,0.135,0.238,0.355,0.558,0.615
+NA,All,SAV/Algae,SH,Sherman,P1,Res,P1_Res,0.136,0.078,0.019,0.029,0.075,0.127,0.186,0.279,0.313
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.338,0.111,0.13,0.159,0.259,0.336,0.411,0.523,0.564
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.426,0.222,0.052,0.078,0.247,0.423,0.585,0.805,0.856
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.641,0.162,0.265,0.346,0.548,0.658,0.759,0.874,0.898
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.51,0.23,0.073,0.106,0.341,0.517,0.686,0.871,0.906
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.209,0.127,0.028,0.041,0.111,0.187,0.282,0.451,0.508
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.168,0.131,0.016,0.024,0.07,0.136,0.23,0.431,0.505
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.543,0.172,0.158,0.231,0.436,0.559,0.665,0.801,0.843
+NA,All,Emergent,TR,Tule Red,P3,Res,P3_Res,0.427,0.199,0.069,0.103,0.279,0.428,0.573,0.754,0.803
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.037,0.033,0.001,0.002,0.011,0.028,0.053,0.103,0.121
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.066,0.088,0,0.001,0.007,0.027,0.089,0.264,0.32
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.035,0.049,0,0.001,0.005,0.017,0.044,0.135,0.178
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.042,0.062,0,0.001,0.006,0.018,0.05,0.167,0.225
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.076,0.096,0,0.001,0.009,0.035,0.107,0.29,0.347
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.024,0.031,0,0.001,0.004,0.013,0.031,0.086,0.11
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.057,0.072,0,0.001,0.008,0.027,0.076,0.214,0.273
+NA,All,FAV,TR,Tule Red,P3,Res,P3_Res,0.045,0.059,0,0.001,0.006,0.022,0.06,0.174,0.217
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.482,0.09,0.297,0.333,0.422,0.483,0.545,0.625,0.652
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.332,0.159,0.061,0.086,0.213,0.326,0.441,0.598,0.656
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.184,0.09,0.036,0.05,0.118,0.176,0.24,0.341,0.386
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.117,0.073,0.021,0.028,0.062,0.102,0.155,0.262,0.303
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.339,0.092,0.149,0.184,0.283,0.34,0.399,0.486,0.516
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.711,0.145,0.368,0.445,0.627,0.728,0.819,0.917,0.939
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.272,0.106,0.07,0.098,0.2,0.269,0.341,0.449,0.488
+NA,All,Phyto,TR,Tule Red,P3,Res,P3_Res,0.352,0.133,0.097,0.13,0.257,0.351,0.442,0.577,0.619
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.144,0.063,0.037,0.049,0.098,0.14,0.183,0.255,0.278
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.177,0.134,0.011,0.018,0.068,0.148,0.256,0.438,0.498
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.14,0.104,0.008,0.012,0.056,0.12,0.202,0.341,0.389
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.332,0.21,0.014,0.023,0.161,0.315,0.477,0.707,0.766
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.376,0.134,0.063,0.111,0.3,0.391,0.469,0.573,0.601
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.097,0.084,0.006,0.01,0.033,0.072,0.138,0.263,0.312
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.129,0.085,0.014,0.02,0.062,0.114,0.18,0.289,0.332
+NA,All,SAV/Algae,TR,Tule Red,P3,Res,P3_Res,0.176,0.126,0.011,0.017,0.072,0.153,0.257,0.418,0.46
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.058,0.06,0.001,0.003,0.016,0.039,0.078,0.177,0.222
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.077,0.097,0.001,0.001,0.01,0.037,0.11,0.283,0.335
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.043,0.053,0.001,0.001,0.008,0.023,0.055,0.155,0.203
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.045,0.054,0.001,0.001,0.008,0.024,0.06,0.161,0.195
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.055,0.079,0.001,0.001,0.008,0.026,0.071,0.206,0.28
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.056,0.08,0.001,0.001,0.009,0.027,0.07,0.222,0.293
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.054,0.072,0.001,0.001,0.008,0.027,0.071,0.206,0.265
+NA,All,Emergent,WH,Wheeler,P2,Res,P2_Res,0.056,0.072,0.001,0.001,0.009,0.028,0.071,0.208,0.265
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.02,0.023,0,0.001,0.005,0.013,0.026,0.066,0.082
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.023,0.031,0,0,0.003,0.011,0.03,0.091,0.117
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.014,0.018,0,0,0.003,0.008,0.019,0.052,0.065
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.016,0.021,0,0,0.002,0.008,0.02,0.059,0.079
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.019,0.027,0,0,0.003,0.009,0.023,0.072,0.096
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.019,0.027,0,0,0.003,0.009,0.025,0.074,0.096
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.018,0.024,0,0,0.003,0.009,0.024,0.068,0.089
+NA,All,FAV,WH,Wheeler,P2,Res,P2_Res,0.016,0.021,0,0,0.003,0.008,0.021,0.059,0.08
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.448,0.088,0.275,0.303,0.389,0.448,0.508,0.591,0.618
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.729,0.084,0.527,0.574,0.687,0.742,0.785,0.842,0.859
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.31,0.058,0.184,0.212,0.277,0.313,0.349,0.395,0.411
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.197,0.056,0.078,0.099,0.161,0.199,0.235,0.285,0.301
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.366,0.116,0.136,0.175,0.292,0.367,0.442,0.553,0.589
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.475,0.089,0.277,0.323,0.425,0.481,0.532,0.607,0.632
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.628,0.073,0.461,0.502,0.587,0.634,0.676,0.736,0.757
+NA,All,Phyto,WH,Wheeler,P2,Res,P2_Res,0.384,0.065,0.24,0.273,0.347,0.389,0.426,0.48,0.498
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.474,0.084,0.307,0.33,0.418,0.474,0.533,0.612,0.633
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.171,0.058,0.057,0.073,0.132,0.171,0.21,0.265,0.283
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.633,0.053,0.526,0.544,0.597,0.635,0.67,0.718,0.736
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.743,0.058,0.621,0.643,0.707,0.745,0.782,0.835,0.851
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.56,0.118,0.309,0.365,0.484,0.562,0.64,0.747,0.784
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.449,0.08,0.284,0.311,0.398,0.453,0.504,0.572,0.595
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.3,0.063,0.172,0.194,0.258,0.301,0.342,0.401,0.422
+NA,All,SAV/Algae,WH,Wheeler,P2,Res,P2_Res,0.544,0.061,0.419,0.441,0.505,0.547,0.585,0.641,0.66
